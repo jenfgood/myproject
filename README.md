@@ -1,2 +1,1 @@
-
-# Jenna
+the sample text
